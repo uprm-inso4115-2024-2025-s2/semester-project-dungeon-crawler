@@ -1,5 +1,5 @@
 # semester-project-dungeon-crawler
-# Semester-Project-Saferum
+# Semester-Project-DungeonCrawlers
 
 # Dungeon Crawlers - Multiplayer Roguelike Dungeon Crawler
 
