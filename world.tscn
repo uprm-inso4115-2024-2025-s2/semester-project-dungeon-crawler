@@ -18,9 +18,13 @@ tile_map_data = PackedByteArray("AAAAAAEACQAAAAAAAAAAAAIACQAAAAAAAAAAAAMACQAAAAA
 tile_set = ExtResource("2_msi75")
 
 [node name="BiggieChungus" parent="." instance=ExtResource("2_qrjl8")]
+texture_filter = 1
+texture_repeat = 1
 position = Vector2(173, 62)
 
 [node name="Demon" parent="." instance=ExtResource("3_be4mt")]
+texture_filter = 1
+texture_repeat = 1
 position = Vector2(212, 67)
 
 [node name="Player" parent="." instance=ExtResource("1_3m66n")]
