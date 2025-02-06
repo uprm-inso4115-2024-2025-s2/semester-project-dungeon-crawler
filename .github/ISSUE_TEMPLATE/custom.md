@@ -7,30 +7,20 @@ assignees: ''
 
 ---
 
-Objective:
+# Objective
+Perform research on how difficulty scales in dungeon stage progression found in other games.
 
->Provide an objective for the task (What would the task accomplish if implemented?)
+### Task Description
+Research similar games on how difficulty scales per player level room progression. Identify common changes in landscape, mechanics, hazards, enemies, etc. Propose which mechanics to employ and on what stage of game progression.
 
-Task Description:
+### Implementation
+Create a document to report findings. Provide how other games scale difficulty in room progression. Offer suggestions on what mechanics to employ per stage based on researched conducted.
 
->A task description is a detailed outline or explanation of a specific job, assignment, or project that needs to be completed. Describe the work that will be done to accomplish the goal of the task.
+### Subtasks
+N/A
 
-Implementation:
+### Testing and Debugging
+N/A
 
->Provide implementation ideas on how you would implement the feature, this could be added on with time as you work on the feature.
-
-Subtasks:
-
->Preferably split the task but if necessary add a subtask description. Describe the smaller tasks involved in the implementation of your task.
-
-Testing and Debugging:
-
->How will your feature be tested or debugged? Provide a brief description of that process if necessary.
-
-Deadline:
-
-> Set a deadline based on the project timeline and priorities.
-
------------------------
-
-* NOTE: Lecture Topic Tasks must have [Lecture Topic Task] at the beggining of the issue for the script to read them.
+### Deadline
+Friday 7th, 2025
