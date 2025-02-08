@@ -1,6 +1,7 @@
-[gd_scene load_steps=11 format=4 uid="uid://cjk6ugy6xve2s"]
+[gd_scene load_steps=12 format=4 uid="uid://cjk6ugy6xve2s"]
 
 [ext_resource type="PackedScene" uid="uid://25a3rpnuavgd" path="res://player.tscn" id="1_3m66n"]
+[ext_resource type="Script" path="res://world.gd" id="1_ghkhd"]
 [ext_resource type="TileSet" uid="uid://cqgdbcfqkvapu" path="res://floor&walls.tres" id="2_msi75"]
 [ext_resource type="PackedScene" uid="uid://bl8oknjgabrw5" path="res://Mobs/FrindlyChungus/node_2d.tscn" id="2_qrjl8"]
 [ext_resource type="PackedScene" uid="uid://cm7leo13cucj8" path="res://Mobs/EnemyMobs/node_2d.tscn" id="3_be4mt"]
@@ -463,6 +464,7 @@ sources/0 = SubResource("TileSetAtlasSource_r6ouf")
 sources/1 = SubResource("TileSetAtlasSource_ok0vr")
 
 [node name="World" type="Node2D"]
+script = ExtResource("1_ghkhd")
 
 [node name="Floor" type="TileMapLayer" parent="."]
 position = Vector2(64, 80)
